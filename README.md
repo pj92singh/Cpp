@@ -3,7 +3,7 @@ Cpp code and Projects
 --------------------------------------------
 A1final.cpp
 
-A1 final is a simple program takes in users input of words, 
+A1 final is a program takes in users input of words, 
 and shows how many times the word is inputted in an unsorted
 histogram with the following format: 
 
