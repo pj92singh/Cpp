@@ -1,8 +1,6 @@
 /* 60-340 CPP
 Assignment 1
 Prabhjit Singh
-uwinID: 103180339 
-
 -A program takes in users input of words, 
 and shows how many times the word is inputted in an unsorted
 histogram with the following format: 
