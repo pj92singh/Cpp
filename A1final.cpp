@@ -10,7 +10,7 @@ bear  |****
 cat   |**
 dog   |*
 house |***
-tiger |**/
+tiger |**  
 */
 #include <iostream>
 #include <iomanip>
