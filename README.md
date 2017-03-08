@@ -28,3 +28,11 @@ finding the max, and min elements.
  values of the heap) 
 
 --------------------------------------------
+
+Sort.cpp
+--------------------------------------------
+Sorting 50 random values from an array into a vector
+and out putting it out
+
+--------------------------------------------
+
