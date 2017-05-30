@@ -17,7 +17,7 @@ tiger |**/
 
 --------------------------------------------
 
-cardcounter2.cpp
+countercard2.cpp
 --------------------------------------------
 Sequential card showing program 
 -Counts the next batch of cards for position 
