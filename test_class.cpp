@@ -4,7 +4,7 @@
 * Calling Rectangle class and Sedan class
 * building objects based of this calls 
 * 
-* Building more memebers moving forward (10/27th/2018)
+* Building more memebers moving forward 
 */
 #include<iostream>
 #include<vector>
